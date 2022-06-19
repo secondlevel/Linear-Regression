@@ -20,4 +20,5 @@ $ conda create --name Summer python=3.8 -y
 $ conda activate Summer
 $ conda install numpy
 $ conda install matplotlib pandas -y
+$ pip install tqdm
 ```
