@@ -16,8 +16,8 @@ $ conda env create -f environment.yml
 
 ### Second option
 ```bash=
-$ conda create --name Summer python=3.8 -y
-$ conda activate Summer
+$ conda create --name PR python=3.8 -y
+$ conda activate PR
 $ conda install numpy
 $ conda install matplotlib pandas -y
 $ pip install tqdm
