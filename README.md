@@ -16,6 +16,14 @@ $ conda install matplotlib pandas -y
 $ pip install tqdm
 ```
 
+## Training & Evaluation 
+
+You can use the following commend to train the specify model.
+
+```python
+python 310551031_hw1.py
+```
+
 ## Result
 
 
