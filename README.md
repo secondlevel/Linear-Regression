@@ -21,7 +21,7 @@ $ pip install tqdm
 You can use the following  command and select the option to train  the specified model. After training the model, the program will automatically evaluate the model. 
 
 ```bash
-python 310551031_hw1.py
+python 310551031_HW1.py
 ```
 
 ## Result
