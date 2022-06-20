@@ -18,12 +18,18 @@ $ pip install tqdm
 
 ## Training & Evaluation 
 
-You can use the following commend to train the specify model.
+You can use the following commend and select the option to train specify model. After training the model, the program will automatic evaluate the model.
 
 ```bash
 python 310551031_hw1.py
 ```
 
 ## Result
+
+The evaluate metrics is Mean Sequre Error.
+
+|     | Gradient descent | Minibatch Gradient Descent | Stochastic Gradient Descent |
+|-----|------------------|----------------------------|-----------------------------|
+| MSE | 0.0083           | 0.04124                    | 0.0399                      |
 
 
