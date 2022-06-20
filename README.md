@@ -7,14 +7,8 @@ The sample code and dataset can be download in the [link](https://github.com/NCT
 
 ## Requirement
 
-In this work, you can use the following two option to build the environment.
+In this work, you can use following commend to build the environment.
 
-### First option (recommend)
-```bash
-$ conda env create -f environment.yml
-```
-
-### Second option
 ```bash=
 $ conda create --name PR python=3.8 -y
 $ conda activate PR
