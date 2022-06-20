@@ -26,7 +26,7 @@ python 310551031_hw1.py
 
 ## Result
 
-The evaluate metrics is Mean Sequre Error.
+The evaluation metrics is Mean Sequre Error.
 
 |     | Gradient descent | Minibatch Gradient Descent | Stochastic Gradient Descent |
 |-----|------------------|----------------------------|-----------------------------|
