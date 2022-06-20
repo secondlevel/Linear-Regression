@@ -7,7 +7,7 @@ The sample code can be download in this [link](https://github.com/NCTU-VRDL/CS_A
 
 ## Requirement
 
-In this work, you can use the following commend to build the environment.
+In this work, you can use the following command to build the environment.
 
 ```bash
 $ conda create --name PR python=3.8 -y
@@ -18,7 +18,7 @@ $ pip install tqdm
 
 ## Training & Evaluation 
 
-You can use the following commend and select the option to train specify model. After training the model, the program will automatic evaluate the model.
+You can use the following  command and select the option to train  the specified model. After training the model, the program will automatically evaluate the model. 
 
 ```bash
 python 310551031_hw1.py
