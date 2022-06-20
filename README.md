@@ -9,7 +9,7 @@ The sample code can be download in this [link](https://github.com/NCTU-VRDL/CS_A
 
 In this work, you can use the following commend to build the environment.
 
-```bash=
+```bash
 $ conda create --name PR python=3.8 -y
 $ conda activate PR
 $ conda install matplotlib pandas -y
@@ -20,7 +20,7 @@ $ pip install tqdm
 
 You can use the following commend to train the specify model.
 
-```python
+```bash
 python 310551031_hw1.py
 ```
 
