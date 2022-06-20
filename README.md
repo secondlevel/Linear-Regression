@@ -12,7 +12,6 @@ In this work, you can use following commend to build the environment.
 ```bash=
 $ conda create --name PR python=3.8 -y
 $ conda activate PR
-$ conda install numpy
 $ conda install matplotlib pandas -y
 $ pip install tqdm
 ```
